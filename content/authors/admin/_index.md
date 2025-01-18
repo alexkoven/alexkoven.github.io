@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+# title: CEO
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Alexander Nettekoven
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Alexander
+last_name: Nettekoven
 
 # Status emoji
 status:
@@ -20,167 +20,227 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: CEO / Co-Founder
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Multi AI
+    url: https://multi.ai/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:alexkoven.inquiry@gmail.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/alexkoven
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/alexkoven
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/alexander-nettekoven/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://scholar.google.com/citations?user=9L1C_jgAAAAJ&hl=en
+  # - icon: academicons/orcid
+  #   url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Agentic Artificial Intelligence
+  - Robotics and Drones
+  - Swarm Deployment
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Robotics
+    institution: University of Texas at Austin
+    date_start: 2019-01-01
+    date_end: 2022-12-22
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      Dissertation on the ["The Feasibility of 3D Printing with Multicopters,"](https://repositories.lib.utexas.edu/items/f8c656c3-65bf-4b98-9650-2e08013c2158) which studied how drones could be used for 3D printing while flying to overcome current challenges in concrete printing with ground-based robotic systems. Supervised by [Prof. Ufuk Topcu](https://scholar.google.com/citations?user=jeNGFfQAAAAJ&hl=en). Side Note: My research was concurrent to  ["Aerial additive manufacturing with multiple autonomous robots,"](https://www.nature.com/articles/s41586-022-04988-4) a Nature publication by more than two dozen European researchers that studied a similar research problem (most of my results were published before their publication).
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Mechanical Engineering
+    institution: University of Texas at Austin
+    date_start: 2016-08-01
+    date_end: 2018-12-31
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 3.93/4.0
+
+      Master's Thesis on "Predictive Iterative Learning Control with Data-Driven Model for Near-Optimal Laser Power in Selective Laser Sintering." Supervised by Prof. Joseph Beaman and [Prof. Ufuk Topcu](https://scholar.google.com/citations?user=jeNGFfQAAAAJ&hl=en).
+
+  - area: BSc Mechanical Engineering
+    institution: RWTH Aachen University
+    date_start: 2011-10-01
+    date_end: 2016-06-01
+    summary: |
+      GPA: "gut";
+      Specialization: Production Technology
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: CEO
+    company_name: Multi AI
+    company_url: https://multi.ai/
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-09-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+    summary: |
+      Building fully-autonomous AI systems for complex and adversarial environments.
+
+  - position: CTO
+    company_name: Droneconia LLC
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2021-11-01
+    date_end: 2022-09-01
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Developing fully-autonomous mission planning systems for command and control operations in the military.
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+  - position: NSF Scholar / Graduate Research Assistant
+    company_name: Autonomous Systems Group, The University of Texas at Austin
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-01-01
+    date_end: 2022-12-31
+    summary: |
+      Research and development in autonomous decision-making and novel application of robotic systems in complex environments.
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - position: Graduate Research Assistant
+    company_name: Advanced Manufacturing and Design Center, The University of Texas at Austin
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-08-01
+    date_end: 2018-12-31
+    summary: |
+      Implemented data-driven controls for selective laser sintering in additive manufacturing.
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: AI & ML
+#         description: ''
+#         percent: 100
+#         icon: code-bracket
+#       - name: Robots/Drones/Swarms
+#         description: ''
+#         percent: 100
+#         icon: code-bracket
+#       - name: Python, C++
+#         description: ''
+#         percent: 100
+#         icon: code-bracket
+#       - name: Control Theory
+#         description: ''
+#         percent: 80
+#         icon: code-bracket
+#       - name: ROS
+#         description: ''
+#         percent: 80
+#         icon: code-bracket
+#   - name: Soft Skills
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Leadership
+#         description: ''
+#         percent: 100
+#         icon: person-simple-walk
+#       - name: Project Management
+#         description: ''
+#         percent: 80
+#         icon: person-simple-walk
+#       - name: German
+#         description: 'Native'
+#         percent: 100
+#         icon: person-simple-walk
+#       - name: English
+#         description: 'Native'
+#         percent: 100
+#         icon: person-simple-walk
+
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: German
+#     percent: 100
+
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Multi-SBIR Phase III Awardee by US Air Force Autonomy Prime
+    date: '2024-08-01'
+    awarder: US Air Force Autonomy Prime
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      Scaled Startup to multi-SBIR Phase III awards, with less than 5% of DoD startups securing any SBIR Phase III award.
+
+  - title: $1.96M TACFI Award Selection by US Air Force
+    date: '2024-07-01'
+    awarder: Air Force AFWERX Autonomy Prime
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      Selected by Air Force AF Ventures for scaling cutting-edge decision-making AI for contested logistics.
+
+  - title: Launch Texas Awardee
+    date: '2022-11-01'
+    awarder: UT Austin
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      Launch Texas awardee of newly-founded space entrepreneurship program at UT Austin.
+
+  - title: $750,000 SBIR Phase II Award by US Air Force
+    date: '2022-10-01'
+    awarder: US Air Force
+    summary: |
+      As the CTO, I was the main contributor to secure the highly sought-after Phase II award (non-diluted) for Droneconia's Autonomous Mission Planning AI.
+
+  - title: Winner of the 2022 TVLIC Commercialization Award
+    date: '2022-05-01'
+    awarder: Texas Venture Labs Investment Competition
+    summary: |
+      Awarded $10,000 for showing highest commercialization success out of all competing University of Texas at Austin startups.
+
+  - title: Acceptance into 2022 Air Force Technology Acceleration Program
+    date: '2022-01-01'
+    awarder: US Air Force
+    summary: |
+      Received direct support from Air Force SBIR/STTR Office, the Wright Brothers Institute (WBI) and the Entrepreneurs Center (EC).
+
+  - title: GAIN Mechanical Engineering Department Award 2021
+    date: '2021-05-01'
+    awarder: University of Texas at Austin
+    summary: |
+      Awardee of the 2021 Graduate and Industry Networking Mechanical Engineering Department Award.
+
+  - title: NSF Scholar for Multi-institutional Collaboration Project
+    date: '2018-01-01'
+    awarder: National Science Foundation
+    summary: |
+      Selected to perform research on data-driven cyberphysical systems in collaboration with CalTech, Berkeley, Northeastern University, Rensselaer Polytechnic Institute, and UT Austin.
+
+# Education section from the existing entries in your template
+education:
+  - area: PhD Robotics
+    institution: University of Texas at Austin
+    date_start: 2019-01-01
+    date_end: 2022-12-22
+    summary: |
+      Dissertation: "The Feasibility of 3D Printing with Multicopters" - Developed and implemented the first ever drone that can 3D print on a surface through fused deposition modeling.
+
+  - area: MSc Mechanical Engineering
+    institution: University of Texas at Austin
+    date_start: 2016-08-01
+    date_end: 2018-12-31
+    summary: |
+      GPA: 3.93/4.0
+      Thesis: "Predictive Iterative Learning Control with Data-Driven Model for Near-Optimal Laser Power in Selective Laser Sintering"
+
+  - area: BSc Mechanical Engineering
+    institution: RWTH Aachen University
+    date_start: 2011-10-01
+    date_end: 2016-06-01
+    summary: |
+      Specialization: Production Technology
+      Thesis: "Comparison of Textile Cutting Technologies for Fiber-reinforced Components"
+      Grade: "sehr gut" (Highest grade on German scale)
+
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am the CEO and Co-Founder of Multi AI, where we're developing cutting-edge autonomous AI systems for complex and adversarial environments. With a Ph.D. in Robotics from UT Austin, my research has focused on pushing the boundaries of what's possible in autonomous systems, including inventing the first-ever 3D printing drone. My work spans the intersection of artificial intelligence, robotics, and advanced manufacturing, with particular expertise in drone swarm technology and control systems.
+As a leader in the field, I've secured multiple military contracts and formal support from various Air Force programs, while maintaining active involvement in the academic community through publications and mentorship. My experience includes over a decade of work in robotics and AI, with significant achievements in both technical development and business leadership.

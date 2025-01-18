@@ -1,6 +1,6 @@
 # Alexander's Website
 
-The below instructions are what I used to set up my website. I am not familiar with Hugo or the underlying languages. Fortunately, the template along with a few helpful tutorials linked below make the process quite straightforward.
+These instructions are what I used to set up my website. I am not familiar with Hugo or the underlying languages. Fortunately, the template along with a few helpful tutorials linked below make the process fairly straightforward.
 
 ## Setting up website
 1. Clone from [Hugo Academic CV Theme](https://github.com/HugoBlox/theme-academic-cv)
