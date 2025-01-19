@@ -57,34 +57,36 @@ education:
     date_start: 2019-01-01
     date_end: 2022-12-22
     summary: |
-      Dissertation on the ["The Feasibility of 3D Printing with Multicopters,"](https://repositories.lib.utexas.edu/items/f8c656c3-65bf-4b98-9650-2e08013c2158) which studied how drones could be used for 3D printing while flying to overcome current challenges in concrete printing with ground-based robotic systems. Supervised by [Prof. Ufuk Topcu](https://scholar.google.com/citations?user=jeNGFfQAAAAJ&hl=en). Side Note: My research was concurrent to  ["Aerial additive manufacturing with multiple autonomous robots,"](https://www.nature.com/articles/s41586-022-04988-4) a Nature publication by more than two dozen European researchers that studied a similar research problem (most of my results were published before their publication).
-
+      Dissertation: "[The Feasibility of 3D Printing with Multicopters](https://repositories.lib.utexas.edu/items/f8c656c3-65bf-4b98-9650-2e08013c2158)," which studied how drones could be used for 3D printing while flying to overcome current challenges in concrete printing with ground-based robotic systems.  In my research, I demonstrated the [first-ever printing while flying](https://www.youtube.com/watch?v=tEooDpE2TyE) of a standard 3D printing material with a custom-built hexacopter.  
+      Supervised by [Prof. Ufuk Topcu](https://scholar.google.com/citations?user=jeNGFfQAAAAJ&hl=en).  
+  
   - area: MSc Mechanical Engineering
     institution: University of Texas at Austin
     date_start: 2016-08-01
     date_end: 2018-12-31
     summary: |
-      GPA: 3.93/4.0
-
-      Master's Thesis on "Predictive Iterative Learning Control with Data-Driven Model for Near-Optimal Laser Power in Selective Laser Sintering." Supervised by Prof. Joseph Beaman and [Prof. Ufuk Topcu](https://scholar.google.com/citations?user=jeNGFfQAAAAJ&hl=en).
+      Thesis: "Predictive Iterative Learning Control with Data-Driven Model for Near-Optimal Laser Power in Selective Laser Sintering."  
+      Supervised by [Prof. Joseph Beaman](https://www.me.utexas.edu/people/faculty-directory/beaman) and [Prof. Ufuk Topcu](https://scholar.google.com/citations?user=jeNGFfQAAAAJ&hl=en).  
+      GPA: 3.93/4.0  
 
   - area: BSc Mechanical Engineering
     institution: RWTH Aachen University
     date_start: 2011-10-01
     date_end: 2016-06-01
     summary: |
-      GPA: "gut";
-      Specialization: Production Technology
+      Specialization: Production Technology  
+      Thesis: "Comparison of Textile Cutting Technologies for Fiber-reinforced Components."  
+      Thesis Grade: "sehr gut" (Highest grade on German scale)
 
 work:
   - position: CEO
-    company_name: Multi AI
+    company_name: Multi AI, Inc.
     company_url: https://multi.ai/
     company_logo: ''
     date_start: 2022-09-01
     date_end: ''
     summary: |
-      Building fully-autonomous AI systems for complex and adversarial environments.
+      Building and scaling a crucial contested logistics analysis tool for wargamers and operational planners in the US Air Force and Pentagon. 
 
   - position: CTO
     company_name: Droneconia LLC
@@ -93,7 +95,7 @@ work:
     date_start: 2021-11-01
     date_end: 2022-09-01
     summary: |
-      Developing fully-autonomous mission planning systems for command and control operations in the military.
+      Developed large-scale mission planning AI for US Air Force Agility Prime. Secured large support from more than 5 Air Force programs and military primes such as Textron.
 
   - position: NSF Scholar / Graduate Research Assistant
     company_name: Autonomous Systems Group, The University of Texas at Austin
@@ -111,7 +113,7 @@ work:
     date_start: 2016-08-01
     date_end: 2018-12-31
     summary: |
-      Implemented data-driven controls for selective laser sintering in additive manufacturing.
+      Research and development in data-driven controls for selective laser sintering in additive manufacturing.
 
 # skills:
 #   - name: Technical Skills
@@ -164,11 +166,11 @@ work:
 #     percent: 100
 
 awards:
-  - title: Multi-SBIR Phase III Awardee by US Air Force Autonomy Prime
+  - title: Multi-SBIR Phase III Awardee by US Air Force Autonomy Prime and Agility Prime
     date: '2024-08-01'
     awarder: US Air Force Autonomy Prime
     summary: |
-      Scaled Startup to multi-SBIR Phase III awards, with less than 5% of DoD startups securing any SBIR Phase III award.
+      Scaled Startup to multiple SBIR Phase III awards, with less than 5% of DoD startups securing any SBIR Phase III award.
 
   - title: $1.96M TACFI Award Selection by US Air Force
     date: '2024-07-01'
@@ -186,13 +188,13 @@ awards:
     date: '2022-10-01'
     awarder: US Air Force
     summary: |
-      As the CTO, I was the main contributor to secure the highly sought-after Phase II award (non-diluted) for Droneconia's Autonomous Mission Planning AI.
+      Successfully proposed and secured large SBIR Phase II award for Droneconia's Autonomous Mission Planning AI.
 
   - title: Winner of the 2022 TVLIC Commercialization Award
     date: '2022-05-01'
     awarder: Texas Venture Labs Investment Competition
     summary: |
-      Awarded $10,000 for showing highest commercialization success out of all competing University of Texas at Austin startups.
+      Won 2022 TVLIC Commercialization Award for highest commercialization success out of all competing University of Texas at Austin startups.
 
   - title: Acceptance into 2022 Air Force Technology Acceleration Program
     date: '2022-01-01'
@@ -212,35 +214,9 @@ awards:
     summary: |
       Selected to perform research on data-driven cyberphysical systems in collaboration with CalTech, Berkeley, Northeastern University, Rensselaer Polytechnic Institute, and UT Austin.
 
-# Education section from the existing entries in your template
-education:
-  - area: PhD Robotics
-    institution: University of Texas at Austin
-    date_start: 2019-01-01
-    date_end: 2022-12-22
-    summary: |
-      Dissertation: "The Feasibility of 3D Printing with Multicopters" - Developed and implemented the first ever drone that can 3D print on a surface through fused deposition modeling.
-
-  - area: MSc Mechanical Engineering
-    institution: University of Texas at Austin
-    date_start: 2016-08-01
-    date_end: 2018-12-31
-    summary: |
-      GPA: 3.93/4.0
-      Thesis: "Predictive Iterative Learning Control with Data-Driven Model for Near-Optimal Laser Power in Selective Laser Sintering"
-
-  - area: BSc Mechanical Engineering
-    institution: RWTH Aachen University
-    date_start: 2011-10-01
-    date_end: 2016-06-01
-    summary: |
-      Specialization: Production Technology
-      Thesis: "Comparison of Textile Cutting Technologies for Fiber-reinforced Components"
-      Grade: "sehr gut" (Highest grade on German scale)
 
 ---
 
 ## About Me
 
-I am the CEO and Co-Founder of Multi AI, where we're developing cutting-edge autonomous AI systems for complex and adversarial environments. With a Ph.D. in Robotics from UT Austin, my research has focused on pushing the boundaries of what's possible in autonomous systems, including inventing the first-ever 3D printing drone. My work spans the intersection of artificial intelligence, robotics, and advanced manufacturing, with particular expertise in drone swarm technology and control systems.
-As a leader in the field, I've secured multiple military contracts and formal support from various Air Force programs, while maintaining active involvement in the academic community through publications and mentorship. My experience includes over a decade of work in robotics and AI, with significant achievements in both technical development and business leadership.
+I'm Alex. I built the first-ever drone that can deposit standard 3D printing material on a surface while flying. I have a deep background in robotics, artificial intelligence, and general systems engineering. While finishing my PhD and still being on an F1-student visa in the US, I have built an artificial intelligence company that has gotten more than seven-figure funding from the DoD to build crucial technology for the US Air Force and the Pentagon.

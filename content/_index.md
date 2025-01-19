@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2024-12-09
+date: 2025-01-19
 type: landing
 
 design:
@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: cosmos_dall_e_blue3.jpg
           filters:
-            brightness: 0.4
+            brightness: 0.15
           size: cover
           position: center
           parallax: false
