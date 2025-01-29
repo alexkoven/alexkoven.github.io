@@ -219,4 +219,4 @@ awards:
 
 ## About Me
 
-I'm Alex. I built the first-ever drone that can deposit standard 3D printing material on a surface while flying. I have a deep background in robotics, artificial intelligence, and general systems engineering. While finishing my PhD and still being on an F1-student visa in the US, I have built an artificial intelligence company that has gotten more than seven-figure funding from the DoD to build crucial technology for the US Air Force and the Pentagon.
+I'm Alex. I built the first-ever drone that can deposit standard 3D printing material on a surface while flying. I have a deep background in robotics, artificial intelligence, and general systems engineering. While finishing my PhD and still being on an F1-student visa in the US, I have built an artificial intelligence company that has received seven-figure funding from the DOD to build crucial technology for the US Air Force and the Pentagon.

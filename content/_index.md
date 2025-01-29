@@ -24,9 +24,9 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: cosmos_dall_e_blue3.jpg
+          filename: D3D_original.jpg
           filters:
-            brightness: 0.15
+            brightness: 0.2
           size: cover
           position: center
           parallax: false
